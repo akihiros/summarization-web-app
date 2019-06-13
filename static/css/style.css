@@ -1,0 +1,26 @@
+.box1 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    border: solid 3px #000000;
+}
+.box1 p {
+    margin: 0; 
+    padding: 0;
+}
+
+.h1css {
+	color: #6594e0;/*文字色*/
+	/*線の種類（点線）2px 線色*/
+	border-bottom: dashed 2px #6594e0;
+}
+
+.cp_hr06 {
+	position: relative;
+	height: 1px;
+	border-width: 0;
+	background-image: -webkit-linear-gradient(left,
+	transparent 0%,#283593 50%,transparent 100%);
+	background-image:         linear-gradient(90deg,
+	transparent 0%,#283593 50%,transparent 100%);
+}
