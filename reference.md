@@ -1,0 +1,5 @@
+- [ウェブアプリケーションフレームワーク Flask を使ってみる - Qiita](https://qiita.com/ynakayama/items/2cc0b1d3cf1a2da612e4)
+- [Flaskで、Pythonを使ってwebアプリを作る Windows10 64bit (自然言語処理100本ノック7章 69番を解く) - HYT MachineWorks](https://hytmachineworks.hatenablog.com/entry/2018/09/02/163202)
+- [Flask入門 - Python学習講座](https://www.python.ambitious-engineer.com/archives/1630)
+- [Flaskで英単語を数えるアプリケーションを動かしてみた ｜ DevelopersIO](https://dev.classmethod.jp/server-side/english-word-count-flask-app-ja/)
+- [Python: LexRankで日本語の記事を要約する - け日記](https://ohke.hateblo.jp/entry/2018/11/17/230000)
