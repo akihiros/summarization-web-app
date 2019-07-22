@@ -10,7 +10,6 @@ This system summarizes input text into 3 sentences.
 
 - `cd mydirectory`
 - `git clone git@github.com:akihiros/nlp-summarization.git`
-
 - `python run.py`
 
 起動後`http://127.0.0.1:5000`にアクセスしてください。
