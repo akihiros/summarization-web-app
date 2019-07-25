@@ -1,18 +1,28 @@
-# README
+# ABOUT
 
-入力したテキストを3行の文章に要約するWEBアプリを起動します。
+Imakita Sangyou β is a web service that lets you try automatic summarization.
 
-This system summarizes input text into 3 sentences.
+Currently, there are many algorithms that can not be selected, but I will update regularly and eventually aim for a service that allows you to try various summary algorithms easily on the WEB site.
 
-![image001](img/image001.jpg)
+## Let's Summarize!
 
-## How to run
+When you access URL, you can open the web application without having to create your own environment. It use Heroku for PaaS. The necessary modules are described in requirement.txt. The version of Python is 3 ~.
+
+## Screen Shot
+
+![](C:\Users\hunkn\OneDrive\Documents\GitHub\summarization-web-app\static\images\screenshot1.jpg)
+
+![](C:\Users\hunkn\OneDrive\Documents\GitHub\summarization-web-app\static\images\screenshot2.jpg)
+
+
+
+## How to run（Local）
 
 - `cd mydirectory`
 - `git clone git@github.com:akihiros/nlp-summarization.git`
 - `python run.py`
 
-起動後`http://127.0.0.1:5000`にアクセスしてください。
+please access `http://127.0.0.1:5000`.
 
 ## Reference
 
