@@ -6,15 +6,13 @@ Currently, there are many algorithms that can not be selected, but I will update
 
 ## Let's Summarize!
 
-When you access URL, you can open the web application without having to create your own environment. It use Heroku for PaaS. The necessary modules are described in requirement.txt. The version of Python is 3 ~.
+When you access 'https://summarization-web-app.herokuapp.com/', you can open the web application without having to create your own environment. It use Heroku for PaaS. The necessary modules are described in requirement.txt. The version of Python is 3 ~.
 
 ## Screen Shot
 
 ![](C:\Users\hunkn\OneDrive\Documents\GitHub\summarization-web-app\static\images\screenshot1.jpg)
 
 ![](C:\Users\hunkn\OneDrive\Documents\GitHub\summarization-web-app\static\images\screenshot2.jpg)
-
-
 
 ## How to run（Local）
 
