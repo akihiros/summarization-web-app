@@ -10,9 +10,9 @@ When you access 'https://summarization-web-app.herokuapp.com/', you can open the
 
 ## Screen Shot
 
-![](C:\Users\hunkn\OneDrive\Documents\GitHub\summarization-web-app\static\images\screenshot1.jpg)
+![](https://github.com/akihiros/summarization-web-app/blob/master/static/images/screenshot1.jpg)
 
-![](C:\Users\hunkn\OneDrive\Documents\GitHub\summarization-web-app\static\images\screenshot2.jpg)
+![](https://github.com/akihiros/summarization-web-app/blob/master/static/images/screenshot2.jpg)
 
 ## How to run（Local）
 
